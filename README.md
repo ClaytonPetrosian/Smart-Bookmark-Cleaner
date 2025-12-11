@@ -95,7 +95,7 @@ node bookmark_manager.js
 
 -----
 
-## \<a id="smart-bookmark-cleaner"\>\</a\>Smart Bookmark Cleaner
+## Smart Bookmark Cleaner
 
 **Smart Bookmark Cleaner** is a powerful Node.js command-line tool designed to solve the problem of "digital hoarding." It not only detects the validity of bookmarks but also uses AI (LLM) to automatically recategorize your messy favorites based on their content.
 
@@ -189,3 +189,4 @@ node bookmark_manager.js
 
 
 ISC / MIT (Choose your license)
+
