@@ -4,7 +4,7 @@
 
 -----
 
-## \<a id="ai-书签整理助手"\>\</a\>AI 书签整理助手
+## AI 书签整理助手
 
 **Smart Bookmark Cleaner** 是一个基于 Node.js 的强大命令行工具，旨在解决“数字囤积”问题。它不仅能检测书签的有效性，还能利用 AI 大模型（LLM）根据网页内容自动重新归类你的书签，让混乱的收藏夹焕然一新。
 
@@ -95,7 +95,7 @@ node bookmark_manager.js
 
 -----
 
-## \<a id="smart-bookmark-cleaner"\>\</a\>Smart Bookmark Cleaner
+## Smart Bookmark Cleaner
 
 **Smart Bookmark Cleaner** is a powerful Node.js command-line tool designed to solve the problem of "digital hoarding." It not only detects the validity of bookmarks but also uses AI (LLM) to automatically recategorize your messy favorites based on their content.
 
@@ -187,4 +187,6 @@ node bookmark_manager.js
 
 ### 📝 License
 
+
 ISC / MIT (Choose your license)
+
